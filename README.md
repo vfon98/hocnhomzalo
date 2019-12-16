@@ -17,8 +17,6 @@ Ví dụ: `2019-12-06. C# căn bản.md`
 Mục lục ghi theo định dạng ***dd*/*mm*/*yyyy*: *tên_chủ_đề* (*tên_người_trình_bày*)**.
 Ví dụ: `06/12/2019: C# căn bản (Châu)`
 
-Các liên kết trong mục lục phải ghi ở dạng URI-encoded. Ví dụ: `2019-12-06.%20C%23%20căn%20bản.md`
-
 # Mục lục
 - [06/12/2019: C# căn bản (Châu)](2019-12-06.%20C%23%20căn%20bản.md)
 - [10/12/2019: Cơ bản về Git (Châu)](2019-12-10.%20Git%20c%C6%A1%20b%E1%BA%A3n.md)
