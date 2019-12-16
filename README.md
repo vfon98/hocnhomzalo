@@ -14,17 +14,11 @@ Ví dụ: `2019-12-06. C# căn bản.md`
 
 Đặt tên như ở trên để lúc sắp xếp theo tên nó tự xếp theo đúng thứ tự thời gian luôn.
 
-Dòng đầu tiên trong nội dung file để ghi tên người trình bày. Ví dụ:
+Mục lục ghi theo định dạng ***dd*/*mm*/*yyyy*: *tên_chủ_đề* (*tên_người_trình_bày*)**.
+Các liên kết trong mục lục phải ghi ở dạng URI-encoded.
 
-    Người trình bày: Châu
-
-    # Tiêu đề mục 1
-    Nội dung mục 1
-    
-    # Tiêu đề mục 2
-    Nội dung mục 2
-    ...
+Ví dụ: `[06/12/2019: C# căn bản (Châu)](2019-12-06.%20C%23%20căn%20bản.md)`
 
 # Mục lục
-[TODO: Làm cái mục lục ở đây sau khi đã tập hợp nội dung các buổi nói chuyện trước lên repo, nhớ
-ghi luôn ngày tháng năm, tên chủ đề, người trình bày]
+[06/12/2019: C# căn bản (Châu)](2019-12-06.%20C%23%20căn%20bản.md)
+[10/12/2019: Cơ bản về Git (Châu)](2019-12-10.%20Git%20c%C6%A1%20b%E1%BA%A3n.md)
