@@ -20,3 +20,4 @@ Ví dụ: `06/12/2019: C# căn bản (Châu)`
 # Mục lục
 - [06/12/2019: C# căn bản (Châu)](2019-12-06.%20C%23%20căn%20bản.md)
 - [10/12/2019: Cơ bản về Git (Châu)](2019-12-10.%20Cơ%20bản%20về%20Git.md)
+- [21/12/2019: Cơ bản về Javascript và chuẩn ECMAScript (Phong)](2019-12-21.%20Cơ%20bản%20về%20Javascript%20và%20ECMAScript.md)
